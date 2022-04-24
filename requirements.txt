@@ -5,3 +5,4 @@ wordcloud
 seaborn
 torch
 matplotlib
+jieba
