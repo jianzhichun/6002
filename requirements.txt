@@ -1,0 +1,8 @@
+openpyxl
+transformers
+sklearn
+wordcloud
+seaborn
+torch
+matplotlib
+jieba
