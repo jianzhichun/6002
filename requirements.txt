@@ -6,3 +6,5 @@ seaborn
 torch
 matplotlib
 jieba
+pycaret
+gensim
